@@ -2,7 +2,7 @@
 
 =====================================================
 
-This repository contains a Shiny application designed for quantitative trading analysis of crude oil options. The application leverages historical data of Brent Crude Oil Financial Futures to provide users with various interactive plots and tools for analyzing price trends, volatility, and correlations.
+This repository contains a Shiny application designed for trading analysis of crude oil options. The application leverages historical data of Brent Crude Oil Financial Futures to provide users with various interactive plots and tools for analyzing price trends, volatility, and correlations.
 
 
 The Crude Oil Quantitative Trading App provides valuable tools and visualizations that can assist investors in analyzing and making informed decisions regarding crude oil options. Here's how an investor can leverage the app:
